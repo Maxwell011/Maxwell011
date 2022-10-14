@@ -15,7 +15,7 @@
 
 - 💼 I am very good at pair programming (Driver / navigation method).
 
-- 📈 Currently learning full stack software development in a remote multicultural environment, 
+- 📈 Currently learning Full-stack software development in a remote multicultural environment, 
 
 - ❤️ I love writing JavaScript, solving algorithms, and building fun experiments.
 
