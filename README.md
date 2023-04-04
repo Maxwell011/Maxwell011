@@ -35,9 +35,6 @@
 | ------------- | ------------- |
 
 ---
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maxwell011&theme=react-dark&hide_border=true)
-
 ---
 
 <br />
