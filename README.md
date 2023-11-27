@@ -7,13 +7,13 @@
 
 <br/>
 
-    I'm currently enrolled in a software development student at Microverse, a Multicultural Full-stack development school. 
+   As an accomplished software development graduate from Microverse, a renowned multicultural full-stack development school, I have honed my skills in the latest web development technologies and methodologies, equipping me with the expertise to deliver high-quality, scalable solutions. With a deep understanding of both front-end and back-end development, I am well-prepared to tackle complex projects and contribute to the success of any organization
 
 **About Me**
 
-- 🤠  I'm a student and mentor at Microverse Inc.
+- 🤠  I was a student and mentor at Microverse Inc.
 
-- 💼 I am very good at pair programming (Driver / navigation method).
+- 💼 I am very good at pair programming (Driver/navigation method).
 
 - 📈 Currently learning Full-stack software development in a remote multicultural environment, 
 
