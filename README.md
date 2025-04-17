@@ -1,4 +1,4 @@
-<h1 align="center"> Hello There <br/> I'm Maxwell Orji 👋</h1>
+<h1 align="center"> Hello <br/> Maxwell Here 👋</h1>
 
 <p align="center">A Full-Stack Software Engineer</p>
 <p align="center">
@@ -7,7 +7,7 @@
 
 <br/>
 
-   As an accomplished software development graduate from Microverse, a renowned multicultural full-stack development school, I have honed my skills in the latest web development technologies and methodologies, equipping me with the expertise to deliver high-quality, scalable solutions. With a deep understanding of both front-end and back-end development, I am well-prepared to tackle complex projects and contribute to the success of any organization
+   A passionate software development graduate from Microverse, a renowned multicultural full-stack development school, I have honed my skills in the latest web development technologies and methodologies, equipping me with the expertise to deliver high-quality, scalable solutions. With a deep understanding of both front-end and back-end development, I am well-prepared to tackle complex projects and contribute to the success of any organization
 
 **About Me**
 
